@@ -1,4 +1,7 @@
-# NFT Marketplace
+# Original COntent Creation - Empowering Digital Creators
+
+## Introduction
+Welcome to our Ethereum NFT Marketplace, a decentralized platform that empowers digital creators, artists, and collectors to showcase and trade their unique Non-Fungible Tokens (NFTs). Built on the Ethereum blockchain using Hardhat for smart contract development and React for the frontend, our marketplace provides a secure, transparent, and seamless environment for buying, selling, and exploring NFTs. Immerse yourself in a world where creativity knows no bounds and the value of art is redefined.
 
 ## Technology Stack & Tools
 
@@ -18,12 +21,12 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd nft_marketplace
+$ cd original_content_creation
 $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd nft_marketplace
+$ cd original_content_creation
 $ npx hardhat node
 ```
 
@@ -42,7 +45,13 @@ $ npx hardhat node
 ### 7. Launch Frontend
 `$ npm run start`
 
-License
-----
-MIT
+## Contributing
+- [Rahul Kumar Singh](https://github.com/Goodwiller) 
+- [Ravindra Malviya](https://github.com/malviyaravi) 
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+We would like to express our gratitude to the open-source community and the developers behind Ethereum, Hardhat, and React for providing the tools that made this project possible.
 
