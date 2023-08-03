@@ -47,7 +47,7 @@ $ npx hardhat node
 
 ## Contributing
 - [Rahul Kumar Singh](https://github.com/Goodwiller) 
-- [Ravindra Malviya](https://github.com/malviyaravi) 
+- [Ravindra Kumar](https://github.com/malviyaravi) 
 
 ## License
 This project is licensed under the MIT License.
